@@ -1,5 +1,7 @@
 # Boating Through
 
+![Gameplay](Screenshots/BT_gif1.gif)
+
 **Boating Through** is a fast-paced, infinite runner-style arcade game built in **Unity**.
 
 ## Gameplay
@@ -37,6 +39,12 @@ Guide your boat through a procedurally generated path of tiles. The path zig-zag
 - **`AudioManager.cs` / `Sound.cs`**: A custom audio system for playing SFX and Music.
 - **`Pickups.cs`**: Handles the floating collectibles, adding score upon collision with the player.
 - **`Tile.cs`**: Logic for individual path segments (e.g., attach points).
+
+## Gallery
+
+| | |
+|:---:|:---:|
+| ![Screenshot 1](Screenshots/BT1.jpg) | ![Screenshot 2](Screenshots/BT_2.jpg) |
 
 ## License
 
